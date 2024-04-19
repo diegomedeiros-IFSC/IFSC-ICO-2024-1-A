@@ -4,3 +4,5 @@ Este é o arquivo README.md
 
 Uma informação muito importante.
 Mensagem bonita
+
+Uma nova informação importante.
